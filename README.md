@@ -4,5 +4,18 @@ Bu layihə `Express.js` istifadə edərək yaradılmış sadə bir RESTful API-d
 
 ---
 
+
+
 ## 📁 Layihə Quruluşu
 
+```
+my-api-project/
+├── index.js
+├── .env
+├── package.json
+├── README.md
+├── images/
+│ ├── server-start.png
+│ ├── thunder-post.png
+│ └── secure-test.png
+```
